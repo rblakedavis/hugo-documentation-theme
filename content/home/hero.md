@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: Hipster Game Reviews
+hero_media: hipster.svg
 design:
   background:
     gradient_start: '#4bb4e3'

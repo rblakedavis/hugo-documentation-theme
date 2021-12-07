@@ -13,7 +13,7 @@ feature:
     icon_pack: fas
     name: Unknown
     description: Games you may not have heard of
-  - icon: fa-gem
+  - icon: gem
     icon_pack: fas
     name: Hidden Gems
     description: But not all gems are pretty

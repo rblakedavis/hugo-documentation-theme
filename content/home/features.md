@@ -18,6 +18,10 @@ feature:
     icon_pack: fas
     name: Personal Notebook
     description: For yourself
+    -icon: list-alt
+    icon_pack: fas
+    name: Test
+    description: works
 design:
   columns: "4"
 ---

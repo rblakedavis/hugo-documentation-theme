@@ -5,6 +5,8 @@ headless: true
 weight: 20
 title: Features
 subtitle: Document _anything_ ✨
+design:
+  columns: "4"
 feature:
   - icon: book-open
     icon_pack: fas
@@ -18,10 +20,9 @@ feature:
     icon_pack: fas
     name: Personal Notebook
     description: For yourself
-    -icon: list-alt
+  - icon: list-alt
     icon_pack: fas
     name: Test
     description: works
-design:
-  columns: "4"
+
 ---

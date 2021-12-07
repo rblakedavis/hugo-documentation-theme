@@ -3,18 +3,22 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: Document _anything_ ✨
+subtitle: A new site for professional-grade reviews
 feature:
-  - icon: book-open
+  - icon: coffee
     icon_pack: fas
-    name: Project Documentation
-    description: For users
+    name: Independent,
+    description: AA, and small studio
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
-  - icon: list-alt
+    name: Unknown
+    description: Games you may not have heard of
+  - icon: fa-gem
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: Hidden Gems
+    description: But not all gems are pretty
+    - icon: user-alt-slash
+    icon_pack: fas
+    name: Self-Published
+    description: By an industry outsider
 ---

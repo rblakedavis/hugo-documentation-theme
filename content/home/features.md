@@ -6,7 +6,7 @@ weight: 20
 title: Features
 subtitle: Document _anything_ ✨
 design:
-  columns: "4"
+  columns: "5"
 feature:
   - icon: book-open
     icon_pack: fas
@@ -26,3 +26,5 @@ feature:
     description: works
 
 ---
+
+
